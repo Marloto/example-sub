@@ -1,0 +1,3 @@
+[submodule "example-vector"]
+	path = example-vector
+	url = https://github.com/Marloto/example-vector
